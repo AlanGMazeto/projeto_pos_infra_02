@@ -4,4 +4,8 @@ teste03
 teste4
 teste06
 teste07
+<<<<<<< HEAD
 teste09
+=======
+teste08
+>>>>>>> main
